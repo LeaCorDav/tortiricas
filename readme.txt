@@ -1,9 +1,12 @@
-##Tortirricas: Landing Page
+TORTIRRICAS: Landing Page
 Proyecto para una cadena de restaurantes mexicana establecida en Queretaro.
 https://tortiricas-leandrocordero.netlify.app/
 
-#Tecnologías
+
+TECNOLOGIAS
+
 WORDPRESS
 KADENCE
 SPECTRA
+CSS
 NETLIFY
